@@ -128,13 +128,19 @@ Clone this repository to your desired directory using the command:
 
 Kindly go ahead and give this project a massage but do not forget to give a detailed description in your pull request.
 
-<!--
-Example command:
+
+Install the required dependencies using the following command:
 
 ```sh
-  rails server
+  npm install
 ```
---->
+
+Run the server using the following command:
+
+```sh
+  npm start
+```
+-
 
 
 
