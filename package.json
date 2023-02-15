@@ -1,5 +1,5 @@
 {
-  "name": "Webpack",
+  "name": "Leaderboard",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frempongdev/Webpack.git"
+    "url": "git+https://github.com/frempongdev/Leaderboard.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/frempongdev/Webpack/issues"
+    "url": "https://github.com/frempongdev/Leaderboard/issues"
   },
-  "homepage": "https://github.com/frempongdev/Webpack#readme",
+  "homepage": "https://github.com/frempongdev/Leaderboard#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.3",

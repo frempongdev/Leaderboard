@@ -1,7 +1,66 @@
 body {
-    background-color: bisque;
+  padding: 0% 1.5%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.hello {
-    color: red;
-  }
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+.main-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4%;
+  padding: 0% 2%;
+}
+
+.score-display {
+  width: 80%;
+  padding-left: 10%;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 27%;
+}
+
+.refresh-scores {
+  padding: 2% 4%;
+}
+
+.score-list {
+  padding: 1%;
+  border: 1px solid grey;
+}
+
+.score-line {
+  list-style: none;
+  padding: 2%;
+  font-weight: bold;
+}
+
+.score-line:nth-child(odd) {
+  background-color: rgb(210, 210, 210);
+}
+
+.score-form {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
+
+.score-form > * {
+  margin-bottom: 4%;
+  padding: 2%;
+}
+
+#submit {
+  width: 20%;
+  align-self: end;
+}
