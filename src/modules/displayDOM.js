@@ -4,11 +4,12 @@ const displayDOM = async () => {
   let output = '';
   const scoreList = document.querySelector('.score-list');
   const scores = await getScore();
-  scores.result.forEach((score, index) => {
+  const sortedScores = scores.result.sort((a, b) => b.score - a.score);
+  sortedScores.forEach((score) => {
     output += `
       <li class="score-line">
-      <span id="username">${scores.result[index].user}</span>  
-      <span id="userscore">${scores.result[index].score} wins </span>
+      <span id="username">${score.user}</span>  
+      <span id="userscore">${score.score} wins </span>
       </li>
       `;
   });
