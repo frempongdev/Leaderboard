@@ -43,6 +43,8 @@ h2 {
   list-style: none;
   padding: 2%;
   font-weight: bold;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
 }
 
 .score-line:nth-child(odd) {
@@ -63,4 +65,8 @@ h2 {
 #submit {
   width: 20%;
   align-self: end;
+}
+
+#userscore {
+  /* margin-left: 5%; */
 }
