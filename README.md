@@ -88,7 +88,8 @@ If link does not work copy URL ( https://frempongdev.github.io/Leaderboard/dist/
 - **This projects follows all Microverse Linters**
 - **This project takes user inputs of names and scores**
 - **This project displays the input for name and scores in the recent scores box**
-- **This project saves the scores details inside the Browser**
+- **This project saves the score details to an API**
+- **This project fetches the score details from an API**
 - **This project has syntax with ES6 format.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -202,6 +203,6 @@ I would like to thank  everyone who inspired me to learn programming. Regards to
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./license) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
