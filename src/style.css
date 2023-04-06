@@ -16,6 +16,7 @@ h2 {
 }
 
 .main-section {
+  min-height: 60vh;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 4%;
