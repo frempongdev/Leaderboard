@@ -155,7 +155,7 @@ Run the server using the following command:
 
 - GitHub: [@frempongdev](https://github.com/frempongdev)
 - Twitter: [@knobaddy](https://twitter.com/knobaddy)
-- LinkedIn: [Samuel knower Amankwaa-Frempong](https://www.linkedin.com/in/samuel-knower-amankwaa-frempong-356802256/)
+- LinkedIn: [Samuel knower Amankwaa-Frempong](https://www.linkedin.com/in/frempongdev/)
 
 
 
