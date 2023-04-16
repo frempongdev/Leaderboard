@@ -170,9 +170,9 @@ Run the server using the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Dynamic DOM displays]**
-- [ ] **[API implementation]**
-- [ ] **[Server Storage]**
+- [ ] **[User Sign In and interactions]**
+- [ ] **[Fan comments and votes]**
+- [ ] **[Various Game details like opponent and rounds]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
